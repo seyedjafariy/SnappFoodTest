@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SnappFood</string>
+
+    <string name="error_wrong_passed_data">passed data is wrong</string>
+    <string name="error_internal">An Internal Error occurred. Please try again</string>
+    <string name="error_wrong_input_data">The Input Data Is Wrong</string>
+    <string name="error_wrong_received_params">Error in receiving Parameters</string>
+    <string name="error_time_out">Server Time Out</string>
+    <string name="error_connection_failure">Connection Failed</string>
+    <string name="error_data_receive">Malformed Data received</string>
+    <string name="error_server_failure">Server Failed To Respond</string>
+    <string name="error_no_item_received">No Item Received</string>
+    <string name="error_server">Server Error</string>
+    <string name="error_unAuthorized">UnAuthorized</string>
+    <string name="error_permission_denied">Overlay Permission Denied</string>
+
+
+</resources>
